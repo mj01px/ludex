@@ -1,0 +1,33 @@
+# Java / Maven
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.classpath
+.factorypath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
